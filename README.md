@@ -1,4 +1,4 @@
 # MyFirstGitRepository
 This is My First Git Repository
 <br>
-Author - Nitish Saraf
+Author - Nitish Saraf Infosys
